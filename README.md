@@ -121,3 +121,9 @@ A pie chart of the most common customer payment methods.
 - 🛍️ Provide better product descriptions and images to reduce returns.
 - 📅 Plan major discount campaigns around high-traffic months.
 
+
+## 👤 Author
+
+**Ashish Jha**  
+[LinkedIn](https://www.linkedin.com/in/ashish-jha-838a)  
+📧 aj885829@gmail.com
