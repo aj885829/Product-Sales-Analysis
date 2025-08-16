@@ -125,5 +125,5 @@ A pie chart of the most common customer payment methods.
 ## 👤 Author
 
 **Ashish Jha**  
-[LinkedIn](www.linkedin.com/in/ashish-jha-aj885829)  
+[LinkedIn](https://www.linkedin.com/in/ashish-jha-aj885829/)  
 📧 aj885829@gmail.com
